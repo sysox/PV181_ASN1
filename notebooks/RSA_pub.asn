@@ -1,0 +1,13 @@
+-- https://www.rfc-editor.org/rfc/rfc3447#appendix-C
+
+RSA DEFINITIONS ::= BEGIN
+    RSAPublicKey ::= SEQUENCE {
+
+    }
+
+    Version ::= INTEGER
+    RSAPrivateKey ::= SEQUENCE {
+        -- do not use line: otherPrimeInfos   OtherPrimeInfos OPTIONAL
+        -- should not end with ","
+    }
+END

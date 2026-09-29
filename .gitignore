@@ -1,0 +1,8 @@
+.venv/
+.venv-win/
+notebooks/*.pem
+notebooks/*.der
+notebooks/*.bin
+notebooks/*.txt
+.ipynb_checkpoints/
+__pycache__/
