@@ -1,4 +1,4 @@
--- https://www.rfc-editor.org/rfc/rfc3447#appendix-C
+-- RFC 8017, Appendix A.1.1 and A.1.2: https://www.rfc-editor.org/rfc/rfc8017#appendix-A.1
 
 RSA DEFINITIONS ::= BEGIN
     RSAPublicKey ::= SEQUENCE {
